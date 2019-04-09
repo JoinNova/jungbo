@@ -1,0 +1,2 @@
+CAPTCHA completely_automated_public_turing_test_to_tell_computers_and_humans_apart 자동_계정_생성_방지_기술 캡차
+인터넷 사이트에서 신규 회원 등록할 때 등록자가 컴퓨터인지 사람인지를 알아볼 목적으로 질문을 던져 응답을 확인하는 인증 방식이다. 컴퓨터가 스스로 해독하기 어렵도록 만든 글씨나 숫자를 보여주고 사람인 경우만 입력에 성공할 수 있도록 제공. 운영한다.
